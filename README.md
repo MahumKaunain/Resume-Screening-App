@@ -32,7 +32,7 @@ cd resume-screening-app
 2. Install dependencies
 pip install -r requirements.txt
 
-3.Run the app
+3.Run the app                                                                                                                           
 streamlit run app.py
 
 4.If streamlit command is not found, use:
