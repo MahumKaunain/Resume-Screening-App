@@ -22,6 +22,7 @@ A resume screening web app using Python, Streamlit, and scikit-learn. It extract
 - NumPy, pandas, re (regex), joblib
 
 ---
+app link: http://localhost:8501/
 
 ## 🔧 Installation
 
